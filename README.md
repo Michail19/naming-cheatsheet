@@ -373,4 +373,10 @@ const friend = ['Bob', 'Tony', 'Tanya']
 const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
+<<<<<<< HEAD
 Конфликт
+=======
+Изменение 1 в branch1
+Изменение 2 в branch1
+Изменение 3 в branch1
+>>>>>>> branch1
